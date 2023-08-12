@@ -1,0 +1,217 @@
+[
+    {
+        "id": 0,
+        "titulo": "Objetos",
+        "flashcards": [
+            {
+                "id": 0,
+                "frente": "Árvore",
+                "verso": "Tree"
+            },
+            {
+                "id": 1,
+                "frente": "Janela",
+               "verso": "Window"
+            },
+            {
+                "id": 2,
+                "frente": "Porta",
+                "verso": "Door"
+            },
+            {
+                "id": 3,
+                "frente": "Parede",
+                "verso": "Wall"
+            },
+            {
+                "id": 4,
+                "frente": "Chão",
+                "verso": "Floor"
+            },
+            {
+                "id": 5,
+                "frente": "Cozinha",
+                "verso": "Kitchen"
+            },
+            {
+                "id": 6,
+                "frente": "Quarto",
+                "verso": "Bedroom"
+            }
+        ],
+        "imagem": "https://cdn.discordapp.com/attachments/579859191569711114/964954131917844530/bola.png",
+        "descricao": "Coleção contendo Objetos relacionados à materiais esportivos"
+    },
+    {
+        "id": 1,
+        "titulo": "Cores",
+        "flashcards": [
+            {
+                "id": 0,
+                "frente": "Árvore",
+                "verso": "Tree"
+            },
+            {
+                "id": 1,
+                "frente": "Janela",
+               "verso": "Window"
+            },
+            {
+                "id": 2,
+                "frente": "Porta",
+                "verso": "Door"
+            },
+            {
+                "id": 3,
+                "frente": "Parede",
+                "verso": "Wall"
+            },
+            {
+                "id": 4,
+                "frente": "Chão",
+                "verso": "Floor"
+            },
+            {
+                "id": 5,
+                "frente": "Cozinha",
+                "verso": "Kitchen"
+            },
+            {
+                "id": 6,
+                "frente": "Quarto",
+                "verso": "Bedroom"
+            }
+        ],
+        "imagem": "https://cdn.discordapp.com/attachments/579859191569711114/964954131091558410/cores.png",
+        "descricao": "Coleção contendo cores que contém no arco-íris"
+    },
+    {
+        "id": 2,
+        "titulo": "Animais",
+        "flashcards": [
+            {
+                "id": 0,
+                "frente": "Árvore",
+                "verso": "Tree"
+            },
+            {
+                "id": 1,
+                "frente": "Janela",
+               "verso": "Window"
+            },
+            {
+                "id": 2,
+                "frente": "Porta",
+                "verso": "Door"
+            },
+            {
+                "id": 3,
+                "frente": "Parede",
+                "verso": "Wall"
+            },
+            {
+                "id": 4,
+                "frente": "Chão",
+                "verso": "Floor"
+            },
+            {
+                "id": 5,
+                "frente": "Cozinha",
+                "verso": "Kitchen"
+            },
+            {
+                "id": 6,
+                "frente": "Quarto",
+                "verso": "Bedroom"
+            }
+        ],
+        "imagem": "https://cdn.discordapp.com/attachments/579859191569711114/964954131498418216/urso.png",
+        "descricao": "Coleção contendo animais que são de estimação"
+    },
+    {
+        "id": 3,
+        "titulo": "Adjetivos",
+        "flashcards": [
+            {
+                "id": 0,
+                "frente": "Árvore",
+                "verso": "Tree"
+            },
+            {
+                "id": 1,
+                "frente": "Janela",
+               "verso": "Window"
+            },
+            {
+                "id": 2,
+                "frente": "Porta",
+                "verso": "Door"
+            },
+            {
+                "id": 3,
+                "frente": "Parede",
+                "verso": "Wall"
+            },
+            {
+                "id": 4,
+                "frente": "Chão",
+                "verso": "Floor"
+            },
+            {
+                "id": 5,
+                "frente": "Cozinha",
+                "verso": "Kitchen"
+            },
+            {
+                "id": 6,
+                "frente": "Quarto",
+                "verso": "Bedroom"
+            }
+        ],
+        "imagem": "https://cdn.discordapp.com/attachments/579859191569711114/964954131708125224/arvore.png",
+        "descricao": "Coleção contendo Adjetivos"
+    },
+    {
+        "id": 4,
+        "titulo": "Pronomes",
+        "flashcards": [
+            {
+                "id": 0,
+                "frente": "Árvore",
+                "verso": "Tree"
+            },
+            {
+                "id": 1,
+                "frente": "Janela",
+               "verso": "Window"
+            },
+            {
+                "id": 2,
+                "frente": "Porta",
+                "verso": "Door"
+            },
+            {
+                "id": 3,
+                "frente": "Parede",
+                "verso": "Wall"
+            },
+            {
+                "id": 4,
+                "frente": "Chão",
+                "verso": "Floor"
+            },
+            {
+                "id": 5,
+                "frente": "Cozinha",
+                "verso": "Kitchen"
+            },
+            {
+                "id": 6,
+                "frente": "Quarto",
+                "verso": "Bedroom"
+            }
+        ],
+        "imagem": "https://cdn.discordapp.com/attachments/579859191569711114/964954131313881098/flecha.png",
+        "descricao": "Coleção contendo pronomes"
+    }
+]
